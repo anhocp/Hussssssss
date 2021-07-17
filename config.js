@@ -12,4 +12,4 @@ const CONFIG = {
     mess: 'Thôi t biết mà =))',
     messDesc: 'Cố lên nhóc.',
     btnAccept: ':))',
-    messLink: 'https://www.facebook.com/lh.17072004'}
+    messLink: 'https://www.facebook.com/profile.php?id=100040031167499'}
