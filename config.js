@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Hú!',
     introDesc: `Bấm tiếp đi có cái này hay này😁`,
     btnIntro: 'Đây.',
-    title: 'Bạn đã bao h chơi đồ chưa😙',
+    title: 'Chơi đồ bao h chưa lè😙',
     desc: '=)) ',
     btnYes: 'Rồi =)).',
     btnNo: 'Không beo h =))',
